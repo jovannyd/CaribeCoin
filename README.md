@@ -31,6 +31,7 @@ Target timespan: 20 minutes
 Transaction confirmations: 7 blocks
 
 Reward System:
+                       
                         Block 1 to 650000               730% year  2 %      per day
                         
                         Block 650000 to 749999          584% year  1.6 %   per day
